@@ -1,0 +1,24 @@
+{
+  "originHash" : "869d80692891e0be663bcaa30e1999cfccb284221c96b661808f13e17bb0b257",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "f455c2975872ccd2d9c81594c658af65716e9b9a",
+        "version" : "5.9.1"
+      }
+    },
+    {
+      "identity" : "apphudsdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apphud/ApphudSDK",
+      "state" : {
+        "revision" : "cbdaff4937b9079ecaf2da92b62d8a7254deb0d0",
+        "version" : "3.5.0"
+      }
+    }
+  ],
+  "version" : 3
+}
